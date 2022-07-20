@@ -2,8 +2,8 @@ About me
 ================
 
 I am a senior Data Scientist in the UK National Health Service (NHS). I
-leads the NRLS / LFPSE analysis team at NHS England and Improvement,
-focussing on analysing incident reporting data and other sources to
+lead the analytical team in Patient Safety at NHS England,
+focussing on analysing incident reporting data and other sources to 
 learn and improve patient safety. I have experience in public health,
 clinical networks, acute trust informatics, and lead the establishment
 of a data science team at Healthcare Evaluation Data (HED), a national
