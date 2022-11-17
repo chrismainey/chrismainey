@@ -2,10 +2,10 @@ About me
 ================
 
 I am a senior Data Scientist in the UK National Health Service (NHS). I
-lead the analytical team in Patient Safety at NHS England,
-focussing on analysing incident reporting data and other sources to 
-learn and improve patient safety. I have experience in public health,
-clinical networks, acute trust informatics, and lead the establishment
+lead and analytical team at North Central London ICB. I have experience 
+in patient safety, public health, statistical and machine learning models,
+clinical networks and acute trust informatics. I have led the Patient
+Safety Measure team at NHS England and the establishment
 of a data science team at Healthcare Evaluation Data (HED), a national
 NHS analytics service from University Hospitals Birmingham NHS
 Foundation Trust.
@@ -14,7 +14,8 @@ I completed my PhD in applied statistics and machine learning at UCL in
 2020, focussing on methods for analysing incident reporting data in the
 NHS using multi-level models, Generalized Additive Models, tree and
 random forest methods and natural language processing (NLP). I also have
-a strong interest in training and teaching.
+a strong interest in training and teaching. I'm a senior fellow of 
+the NHS-R community and member of their technical advisory group.
 
 I’m particularly into `R`, but skilled in SQL and several other
 languages. Skilling up in Python at the moment.
@@ -34,8 +35,3 @@ languages. Skilling up in Python at the moment.
     standards in NHS analysis roles, with CPD, conferences, and regular
     APHA magazine. Register and get accredited. [Apha
     Website](https://www.aphanalysts.org/)
-
--   AnalystX - If you have access to the FutureNHS platform, join
-    AnalystX, the analyst community that is drawing all the strand
-    together and lead on training and skills. [FutureNHS -
-    AnalystX](https://future.nhs.uk/system/login?nextURL=%2Fconnect%2Eti%2FDataAnalytics%2Fgrouphome)
