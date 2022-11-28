@@ -2,7 +2,7 @@ About me
 ================
 
 I am a senior Data Scientist in the UK National Health Service (NHS). I
-lead and analytical team at North Central London ICB. I have experience 
+lead an analytical team at North Central London ICB. I have experience 
 in patient safety, public health, statistical and machine learning models,
 clinical networks and acute trust informatics. I have led the Patient
 Safety Measure team at NHS England and the establishment
