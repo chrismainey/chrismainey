@@ -2,7 +2,7 @@ About me
 ================
 
 I am Head Data Scientist for Birmingham and Solihull ICB, part of the UK National Health Service (NHS). I
-have led an analytical and data science teams at acute hospitals, ICBs and NHS England. I have experience 
+have led analytical and data science teams at acute hospitals, ICBs and NHS England. I have experience 
 in patient safety, public health/population health management, statistical and machine learning models,
 clinical networks and acute trust informatics. 
 
