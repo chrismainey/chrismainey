@@ -10,7 +10,7 @@ I completed my PhD in applied statistics and machine learning at UCL in
 2020, focussing on methods for analysing incident reporting data in the
 NHS using multi-level models, Generalized Additive Models, tree and
 random forest methods and natural language processing (NLP). I also have
-a strong interest in training and teaching. I'm a senior fellow of 
+a strong interest in training and teaching. I'm a fellow of 
 the NHS-R community and member of their technical advisory group.
 
 I’m particularly into `R`, but skilled in SQL and several other
